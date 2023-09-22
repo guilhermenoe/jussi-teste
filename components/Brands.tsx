@@ -15,16 +15,16 @@ const Brands = () => {
                     <span><BsArrowRight size={16} /></span>
                 </div>
                 <div>
-                    <Image src="/logo-brastemp.png" width={160} height={30} alt="Logo Jussi" />
+                    <Image src="./logo-brastemp.png" width={160} height={30} alt="Logo Jussi" />
                 </div>
                 <div>
-                    <Image src="/logo-compracerta.png" width={160} height={30} alt="Logo Jussi" />
+                    <Image src="./logo-compracerta.png" width={160} height={30} alt="Logo Jussi" />
                 </div>
                 <div>
-                    <Image src="/logo-consul.png" width={160} height={30} alt="Logo Jussi" />
+                    <Image src="./logo-consul.png" width={160} height={30} alt="Logo Jussi" />
                 </div>
                 <div>
-                    <Image src="/logo-thebar.png" width={160} height={30} alt="Logo Jussi" />
+                    <Image src="./logo-thebar.png" width={160} height={30} alt="Logo Jussi" />
                 </div>
             </div>
         </div>
