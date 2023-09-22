@@ -2,6 +2,8 @@
   "name": "juss",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://guilhermenoe.github.io/jussi-teste/",
+
   "scripts": {
     "dev": "next dev",
     "build": "next build",
