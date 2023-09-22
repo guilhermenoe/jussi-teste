@@ -45,7 +45,7 @@ const ShelfProduct = () => {
     };
     return (
         <div className="container mt-14 mb-20 md:mx-auto" id="solucoes">
-            <h2 className="text-3xl font-bold not-italic text-start ml-14 mb-3 before:content-['//'] before:text-primary before:text-4xl before:font-bold before:uppercase"> Nossas Soluções </h2>
+            <h2 className="mb-9 text-3xl font-bold not-italic text-start ml-14 before:content-['//'] before:text-primary before:text-4xl before:font-bold before:uppercase"> Nossas Soluções </h2>
             <SliderProducts {...settings}>
 
                 <div>
