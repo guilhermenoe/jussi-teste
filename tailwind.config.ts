@@ -13,7 +13,7 @@ const config: Config = {
       },
       backgroundImage: {
         'logo': "url('/public/logojussi.png')",
-        'Job-jussi': "url('https://i.imgur.com/u0y92g7.png')"
+        'job-jussi': "url('https://i.imgur.com/u0y92g7.png')"
       },
     },
   },
